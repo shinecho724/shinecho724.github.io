@@ -8,24 +8,21 @@ highlighter:         rouge
 permalink:           pretty
 
 # Setup
-title:               Kyle Stratis
-tagline:             'Software Developer in Boston, MA'
-description:         'On an eternal quest to build and learn'
-url:                 https://kylestratis.com
-giturl:				       https://kylestratis.github.io
-baseurl:             https://kylestratis.github.io/
+title:               B. Shine Cho, Ph.D.
+tagline:             'Public Administration Scholar investigating public affairs in local governments'
+description:         'Public administration, local govenrment, budgeting and financial management, citizen participation'
+url:                 https://shinecho724.github.io
+giturl:				       
+baseurl:             ''
 paginate:            5
-rss:                 https://kylestratis.github.io/atom.xml
+rss:                 https://shinecho724.github.io/atom.xml
 
 # About/contact
 author:
-  name:             Kyle Stratis
-  github:           kylestratis
-  email:            kylestratis@gmail.com
-  linkedin:         kylestratis
-  goodreads:        kylestratis
-  google_scholar:   https://scholar.google.com/citations?hl=en&user=-WO2ezMAAAAJ
-  gravatar_md5:     89b28e44e0840bc12ece69b274c29606
+  name:             B. Shine Cho
+  email:            shine.cho724@gmail.com
+  linkedin:         bshinecho
+  google_scholar:   https://scholar.google.com/citations?user=ctmX4igAAAAJ&hl=en
 
 # Custom vars
 version:             1.0.1
