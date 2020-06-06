@@ -1,7 +1,7 @@
 # Released under MIT License
 
 ## Site
-Copyright (c) 2015 Kyle Stratis
+Copyright (c) 2020 B. Shine Cho
 
 ## Lanyon
 Copyright (c) 2014 Mark Otto.
