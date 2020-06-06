@@ -15,7 +15,6 @@ url:                 https://shinecho724.github.io
 giturl:				       
 baseurl:             ''
 paginate:            5
-rss:                 https://shinecho724.github.io/atom.xml
 
 # About/contact
 author:
