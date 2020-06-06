@@ -14,3 +14,13 @@ Dr. Cho is a public administration scholar investigating local government affair
 **MA**: [Yonsei University, Department of Public Administration](yupa.yonsei.ac.kr) (2010)
 
 **BA**: [Yonsei University, Department of Public Administration](yupa.yonsei.ac.kr) (2007)
+
+# Teaching Experience
+**University of Nebraska at Omaha (2015-2019)**
+Program Planning and Evaluation (Undergraduate)
+  Online (Fall 2017, Fall 2018, Fall 2019)
+Strategic Planning (Undergraduate)
+  Online (Spring 2015, Spring 2016, Spring 2018)
+Applied Statistics and Data Management in the Public Sector (Undergraduate)
+  In-class (Fall 2016, Spring & Fall2017)
+  Online (Summer & Fall 2015, Summer 2016)
