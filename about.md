@@ -8,6 +8,9 @@ Dr. Cho is a public administration scholar investigating local government affair
 
 # Education
 **PhD**: [University of Nebraska at Omaha, School of Public Administration](spa.unomaha.edu) (2020)
+
 **MPA**: [Georgia State University, Andrew Young School of Policy Studies](aysps.gsu.edu) (2012)
+
 **MA**: [Yonsei University, Department of Public Administration](yupa.yonsei.ac.kr) (2010)
+
 **BA**: [Yonsei University, Department of Public Administration](yupa.yonsei.ac.kr) (2007)
