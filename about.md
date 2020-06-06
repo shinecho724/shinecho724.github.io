@@ -17,10 +17,10 @@ Dr. Cho is a public administration scholar investigating local government affair
 
 # Teaching Experience
 **University of Nebraska at Omaha (2015-2019)**
-Program Planning and Evaluation (Undergraduate)
-  Online (Fall 2017, Fall 2018, Fall 2019)
-Strategic Planning (Undergraduate)
-  Online (Spring 2015, Spring 2016, Spring 2018)
-Applied Statistics and Data Management in the Public Sector (Undergraduate)
-  In-class (Fall 2016, Spring & Fall2017)
-  Online (Summer & Fall 2015, Summer 2016)
+1. Program Planning and Evaluation (Undergraduate)
+  1. Online (Fall 2017, Fall 2018, Fall 2019)
+1. Strategic Planning (Undergraduate)
+  1. Online (Spring 2015, Spring 2016, Spring 2018)
+1. Applied Statistics and Data Management in the Public Sector (Undergraduate)
+  1. In-class (Fall 2016, Spring & Fall2017)
+  1. Online (Summer & Fall 2015, Summer 2016)
