@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Thank you for visiting my blog
+title: Blog is still under construction
 comments: false
 tags: [miscellaneous,]
 ---
