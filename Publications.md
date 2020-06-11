@@ -15,7 +15,7 @@ Jo, Geun Sic, O Young Kwon & **B. Shine Cho**\*. (2019). “Why Do Korean Electe
 
 Hong, Sounman\* & **B. Shine Cho**. (2018). “Citizen Participation and the Redistribution of Public Goods”, _Public Administration_. 96(3): 481-496. [https://doi.org/10.1111/padm.12521](https://doi.org/10.1111/padm.12521)
 
-**Cho, B. Shine** & Sangoh Yun\*. (2017). “Citizen Participation for Open Government: A Typology of Civic Hacking”, _Korean Policy Studies Review_. 26(1): 177-202. [Written in Korean]. [UCI : G704-000110.2017.26.1.010] (https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002212621)
+**Cho, B. Shine** & Sangoh Yun\*. (2017). “Citizen Participation for Open Government: A Typology of Civic Hacking”, _Korean Policy Studies Review_. 26(1): 177-202. [Written in Korean]. [UCI : G704-000110.2017.26.1.010](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002212621)
 
 Lah, T. J.\* & **Byungwoo Cho**. (2011). “The Change and Mix of Policy Tools for Reducing Diesel Vehicles Emissions in Seoul Metro Government”, _Modern Society and Public Administration_. 21(1):25-47. [Written in Korean]. [UCI : G704-001878.2011.21.1.001](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART001551953)
 
