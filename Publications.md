@@ -5,7 +5,7 @@ title: Publications
 
 I am more than happy to share the full-text of following articles and further our academic exchanges. I look forward to your email. 
 
-#Peer-reviewed Journal Articles
+# Peer-reviewed Journal Articles
 ## Published
 Kwon, O-Young, **B. Shine Cho** & Youngrok Kim\*. (2019). “A Study of Gangwon Province Government’s Participatory Budgeting Vitalization Strategies”. _Journal of Social Sciences_. 58(2): 57-99. [Written in Korean]
 
