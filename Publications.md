@@ -11,7 +11,7 @@ Kwon, O-Young, **B. Shine Cho** & Youngrok Kim\*. (2019). “A Study of Gangwon 
 
 **Cho, B. Shine**, Juye Lee, Wonkang Lee & Hyosang Min\*. (2019). “Changing Management Strategies of a Government-hosted Festival: The Case of Hi Seoul Festival, South Korea”, _International Journal of Event and Festival Management_. 10(2):174-188.
 
-Jo, Geun Sic, O Young Kwon & **B. Shine Cho\* **. (2019). “Why Do Korean Elected Mayors Resign? Applying Dobel’s Ethics of Resigning Model”, _Public Integrity_. Online first (May 13).
+Jo, Geun Sic, O Young Kwon & **B. Shine Cho**\*. (2019). “Why Do Korean Elected Mayors Resign? Applying Dobel’s Ethics of Resigning Model”, _Public Integrity_. Online first (May 13).
 
 Hong, Sounman\* & **B. Shine Cho**. (2018). “Citizen Participation and the Redistribution of Public Goods”, _Public Administration_. 96(3): 481-496.
 
@@ -23,7 +23,7 @@ Lee, Sam Youl, Hakjin Kim\*, & **Byungwoo Cho**. (2008). “Evaluating the Schoo
 
 # Working drafts
 ## Under review
-(Accepted with minor revision) **Cho, B. Shine**, No Won\* & Yaerin Park. “Diffusing Participatory Budgeting Knowledge: Lessons from Korean-language Research.”, Asia Pacific Journal of Public Administration
+(Accepted with minor revision) **Cho, B. Shine**, No Won\* & Yaerin Park. “Diffusing Participatory Budgeting Knowledge: Lessons from Korean-language Research.”, _Asia Pacific Journal of Public Administration_
 
 Lee, Wonkang & **B. Shine Cho**. “Are South Korean Practices the Best Practices for All? The Context Behind the Strategies.”
 
