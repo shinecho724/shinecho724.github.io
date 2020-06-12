@@ -83,7 +83,7 @@
       `layout: page` in the front-matter. See readme for usage.
     {% endcomment %}
     
-    {{ site.pages | jsonify }}
+    {% site.pages | jsonify %}
 
     {% assign pages_list = site.pages | sort:"url" %}
     {% for node in pages_list %}
