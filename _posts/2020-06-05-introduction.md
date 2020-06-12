@@ -5,7 +5,7 @@ comments: false
 tags: [miscellaneous,]
 ---
 Thank you very much for visiting my personal blog.
-I would like to use this blog as a hub to view my scholarly and professional works, social media profiles, and, most importantly, to share research ideas for furthering collabaration. 
+I would like to use this blog as a hub to view my scholarly and professional works, social media profiles, and, most importantly, to share research ideas for furthering collaboration. 
 
 
 
