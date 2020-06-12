@@ -7,13 +7,14 @@ I am more than happy to share the full-text of following articles and further ou
 
 # Peer-reviewed Journal Articles
 ## Published
-Kwon, O-Young, **B. Shine Cho** & Youngrok Kim\*. (2019). “A Study of Gangwon Province Government’s Participatory Budgeting Vitalization Strategies”. _Journal of Social Sciences_. 58(2): 57-99. [Written in Korean] [https://doi.org/10.22418/JSS.2019.12.58.2.57](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002551212)
+Jo, Geun Sic, O Young Kwon & **B. Shine Cho**\*. (2020). “Why Do Korean Elected Mayors Resign? Applying Dobel’s Ethics of Resigning Model”, _Public Integrity_. 22(4):360-371. [DOI: 10.1080/10999922.2019.1606671](https://doi.org/10.1080/10999922.2019.1606671)
 
-**Cho, B. Shine**, Juye Lee, Wonkang Lee & Hyosang Min\*. (2019). “Changing Management Strategies of a Government-hosted Festival: The Case of Hi Seoul Festival, South Korea”, _International Journal of Event and Festival Management_. 10(2):174-188. [https://doi.org/10.1108/IJEFM-08-2018-0051](https://doi.org/10.1108/IJEFM-08-2018-0051)
 
-Jo, Geun Sic, O Young Kwon & **B. Shine Cho**\*. (2019). “Why Do Korean Elected Mayors Resign? Applying Dobel’s Ethics of Resigning Model”, _Public Integrity_. Online first (May 13). [https://doi.org/10.1080/10999922.2019.1606671](https://doi.org/10.1080/10999922.2019.1606671)
+Kwon, O-Young, **B. Shine Cho** & Youngrok Kim\*. (2019). “A Study of Gangwon Province Government’s Participatory Budgeting Vitalization Strategies”. _Journal of Social Sciences_. 58(2): 57-99. [Written in Korean] [DOI: 10.22418/JSS.2019.12.58.2.57](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002551212)
 
-Hong, Sounman\* & **B. Shine Cho**. (2018). “Citizen Participation and the Redistribution of Public Goods”, _Public Administration_. 96(3): 481-496. [https://doi.org/10.1111/padm.12521](https://doi.org/10.1111/padm.12521)
+**Cho, B. Shine**, Juye Lee, Wonkang Lee & Hyosang Min\*. (2019). “Changing Management Strategies of a Government-hosted Festival: The Case of Hi Seoul Festival, South Korea”, _International Journal of Event and Festival Management_. 10(2):174-188. [DOI: 10.1108/IJEFM-08-2018-0051](https://doi.org/10.1108/IJEFM-08-2018-0051)
+
+Hong, Sounman\* & **B. Shine Cho**. (2018). “Citizen Participation and the Redistribution of Public Goods”, _Public Administration_. 96(3): 481-496. [DOI: 10.1111/padm.12521](https://doi.org/10.1111/padm.12521)
 
 **Cho, B. Shine** & Sangoh Yun\*. (2017). “Citizen Participation for Open Government: A Typology of Civic Hacking”, _Korean Policy Studies Review_. 26(1): 177-202. [Written in Korean]. [UCI : G704-000110.2017.26.1.010](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002212621)
 
