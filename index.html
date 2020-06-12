@@ -3,6 +3,10 @@ layout: default
 title: Home
 ---
 
+{% if paginator.page == 1 %}
+    {% include welcome.html %}
+{% endif %}
+
 <div class="posts">
   {% for post in paginator.posts %}
   <div class="post">
