@@ -83,7 +83,7 @@
       `layout: page` in the front-matter. See readme for usage.
     {% endcomment %}
     
-    {{ node.url | debug }}
+    {{ site.pages | debug }}
     {{ page.url | debug }}
 
     {% assign pages_list = site.pages | sort:"url" %}
