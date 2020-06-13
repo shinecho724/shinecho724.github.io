@@ -1,6 +1,6 @@
 ---
 layout: post
-title: [Dissertation] Participatory Budgeting Institutional Change
+title: \[Dissertation\] Participatory Budgeting Institutional Change
 comments: false
 tags: [Dissertation, Participatory budgeting, local government]
 ---
