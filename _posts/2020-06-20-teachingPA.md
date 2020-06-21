@@ -10,9 +10,9 @@ Different classes may need to use different multimedia resources: a show for stu
 
 [Del M.N. Bharath](https://www.linkedin.com/in/delbharath/) also wrote a film review titled [Ethical Decision Making and the Avengers: Lessons from the Screen to the Classroom](https://doi.org/10.1080/10999922.2019.1600352). It is a short, but very interesting read. 
 
-[Dr. Gary Marsharll](https://www.unomaha.edu/college-of-public-affairs-and-community-service/public-administration/about-us/faculty-staff/gary-marshall.php)'s [Applying Film to Public Administration] on Administrative Theory & Praxis is also a must-read. He presents a thorough review of the literature and theoretical discussion about the film and public administration. 
+[Dr. Gary Marsharll's](https://www.unomaha.edu/college-of-public-affairs-and-community-service/public-administration/about-us/faculty-staff/gary-marshall.php) article on Administrative Theory & Praxis, [Applying Film to Public Administration](https://www.jstor.org/stable/41427172) is also a must-read. He presents a thorough review of the literature and theoretical discussion about the film and public administration. 
 
-[Dr. Elizabeth Gillespie](https://www.researchgate.net/profile/Elizabeth_Gillespie3] who will join the University of Memphis this coming fall semester is generous sharing her resource [Social Social Justice Documentaries 2010-2020.docx](https://docs.google.com/document/d/e/2PACX-1vR_USJSeRpT8RkaEcvxXotiGWVUvlVAV3QYZkb4PznvpRAgkr1HeW6imtiqQPwpaw/pub?fbclid=IwAR00ahe5iCLX-jyU-dzjwr77J7eURBKTwFEf1y5z67pNuEwKrqCScbHwOqQ). 
+[Dr. Elizabeth Gillespie](https://www.researchgate.net/profile/Elizabeth_Gillespie3) who will join the University of Memphis this coming fall semester is generous sharing her resource [Social Social Justice Documentaries 2010-2020.docx](https://docs.google.com/document/d/e/2PACX-1vR_USJSeRpT8RkaEcvxXotiGWVUvlVAV3QYZkb4PznvpRAgkr1HeW6imtiqQPwpaw/pub?fbclid=IwAR00ahe5iCLX-jyU-dzjwr77J7eURBKTwFEf1y5z67pNuEwKrqCScbHwOqQ). 
 
 Also, [Journal of Public Affairs Education](https://www.tandfonline.com/toc/upae20/current) has very interesting reads, such as [Jurkiewicz & Giacalone (2000)](https://doi.org/10.1080/15236803.2000.12023483) and [Yu & Campbell (2020)](https://doi.org/10.1080/15236803.2020.1746137). 
 
