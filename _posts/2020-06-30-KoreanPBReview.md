@@ -1,6 +1,6 @@
 ---
 layout: post
-title: PB Studies in Korea: 한국 참여예산 연구(KCI등재지 & KCI등재후보지).
+title: PB Studies in Korea.
 comments: false
 tags: [Participatory budgeting, South Korea]
 ---
