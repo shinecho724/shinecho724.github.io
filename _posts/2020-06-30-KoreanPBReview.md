@@ -1,6 +1,6 @@
 ---
 layout: post
-title: PB Studies in Korea: 한국 참여예산 연구(KCI등재지 & KCI등재후보지)
+title: PB Studies in Korea: 한국 참여예산 연구(KCI등재지 & KCI등재후보지).
 comments: false
 tags: [Participatory budgeting, South Korea]
 ---
@@ -8,9 +8,10 @@ tags: [Participatory budgeting, South Korea]
 Cho, B. Shine, Won No & Yaerin Park. (forthcoming). Diffusing participatory budgeting knowledge: Lessons from Korean-language research. Asia Pacific Journal of Public Administration
 
 This study aims to expand the collective knowledge on participatory budgeting by drawing insights from studies of Korean participatory budgeting. From a review of 93 peer-reviewed journal articles published between 2003 and 2017 in the Korean language, we present a bibliometric network, a review of the research methods, and the themes of the studies.
+
 Editor's comment: "The reviewers found your paper an important addition to our current knowledge about participatory budgeting. I was particularly impressed with your idea for systematically reviewing Korean-language research to extend our knowledge about participatory budgeting. I believe this is a method that is likely to be used more widely, in part because of your article."
 
-Here is the list of articles that we reviewed. (Korean only)
+Here is the list of articles that we reviewed. (Korean only) <br/>
 강윤호. (2011). 지방정부 주민참여예산제도의 채택과 정치이념. 한국지방자치학회보, 23, pp. 29-54.  <br/>
 강윤호, 강은숙, 김종석 & 박남기. (2012). 주민참여 예산제도의 도입과 예산게임의 균형 변화. 한국지방자치학회보, 24(4), pp. 49-66. <br/>
 강재규 & 김상희. (2011). 주민참여예산제도의 비교법적 연구. 지방자치법연구, 11, pp. 267-302.  <br/>
