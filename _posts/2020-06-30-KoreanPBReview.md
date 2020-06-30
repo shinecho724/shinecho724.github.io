@@ -4,7 +4,6 @@ title: PB Studies in Korea: 한국 참여예산 연구(KCI등재지 & KCI등재�
 comments: false
 tags: [Participatory budgeting, South Korea]
 ---
-
 Cho, B. Shine, Won No & Yaerin Park. (forthcoming). Diffusing participatory budgeting knowledge: Lessons from Korean-language research. Asia Pacific Journal of Public Administration
 
 This study aims to expand the collective knowledge on participatory budgeting by drawing insights from studies of Korean participatory budgeting. From a review of 93 peer-reviewed journal articles published between 2003 and 2017 in the Korean language, we present a bibliometric network, a review of the research methods, and the themes of the studies.
